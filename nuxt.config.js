@@ -38,10 +38,19 @@ export default {
 
     // Uncomment this kalau nak guna GA
     // Doc : https://github.com/nuxt-community/analytics-module
-    // ['@nuxtjs/google-analytics', {
-    //   id: 'UA-12301-2'
-    // }]
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-127417237-2'
+    }],
+
+    '@nuxtjs/pwa'
   ],
+  pwa: {
+    manifest: {
+      name: 'Ivan Lanin Bahasa Indonesia',
+      lang: 'id',
+      useWebmanifestExtension: false
+    }
+  },
   /*
   ** Nuxt.js modules
   */
