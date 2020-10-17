@@ -45,11 +45,15 @@ export default {
     '@nuxtjs/pwa'
   ],
   pwa: {
+    meta: {
+      title: 'Ivan Lanin Bahasa Indonesia',
+      author: 'achan.id',
+    },
     manifest: {
       name: 'Ivan Lanin Bahasa Indonesia',
+      short_name: 'Ivan Lanin',
       lang: 'id',
-      useWebmanifestExtension: false
-    }
+    },
   },
   /*
   ** Nuxt.js modules
