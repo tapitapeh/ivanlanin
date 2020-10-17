@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-tailwind",
+  "name": "Mesin Pencari Tweet Ivan Lanin",
   "version": "1.0.0",
-  "description": "My first-class Nuxt.js project",
+  "description": "Mesin pencari tweet Bahasa Indonesia dari Twitter Ivan Lanin (@ivanlanin)",
   "author": "Achan",
   "private": true,
   "scripts": {
