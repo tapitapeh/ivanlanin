@@ -9,7 +9,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || 'Mesin pencari tweet Bahasa Indonesia dari Twitter Ivan Lanin (@ivanlanin)' }
+      { hid: 'description', name: 'description', content: 'Mesin pencari tweet Bahasa Indonesia dari Twitter Ivan Lanin (@ivanlanin)' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
