@@ -1,31 +1,14 @@
-# Nuxtjs x TailwindCSS Base
+# Mesin Pencari Tweet Ivan Lanin
 
-Stack paling terbaik sekali tahun 2020 ❤️
+Sering kali kita bertanya "di mana" ini di-nya dipisah atau digabung?
 
-## NuxtJS Build Setup
+Maka dari itu, uda kita Ivan Lanin hadir dalam rangka memperbaiki kualitas Bahasa Indonesia kita, melalui tweet-tweet beliau yang selalu beliau jawab.
 
-```bash
-# install dependencies
-$ npm run install
+Mesin Pencari Tweet Ivan Lanin ini mempermudah carian tweet beliau di Twitter, tinggal isi kata kunci yang kita ingin tahu betul atau tidaknya.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+[Link](https://ivanlanin.achan.id/)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## Todo
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-## TailwindCSS
-
-[TailwindCSS](https://tailwindcss.com/) ialah CSS Framework paling terbaik setakat ni.
-
-Boleh tengok TailwindUI kalau malas nak code dari scratch.
-[TailwindUI](https://tailwindui.com)
-
-_Minta ID & Pass kat Achan._
+- [ ] Using Twitter API
+- [ ] New UI
