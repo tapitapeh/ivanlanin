@@ -8,6 +8,8 @@ Mesin Pencari Tweet Ivan Lanin ini mempermudah carian tweet beliau di Twitter, t
 
 [Link](https://ivanlanin.achan.id/)
 
+[Jejak Digital](https://twitter.com/tapitapeh/status/1317404813185875970)
+
 ## Todo
 
 - [ ] Using Twitter API
